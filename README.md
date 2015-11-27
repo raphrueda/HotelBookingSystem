@@ -1,6 +1,8 @@
-# HotelBookingSystem
-Hotel Booking System mock up for COMP2911
-(Java7)
+HotelBookingSystem
+==================
+
+Hotel Booking System mock up for COMP2911(Java7)
+
 Reads initialisation file as a command line arg.
 Initialisation file has following initialisation commands:
 'Hotel <Hotel Name> <Room Name/Number> <Room Type>' (e.g. Hotel Marriott 203 3)
