@@ -1,0 +1,28 @@
+Hotel PalletTown 100 1
+Hotel PalletTown 101 1
+Hotel PalletTown 200 2
+Hotel PalletTown 201 2
+Hotel PalletTown 300 3
+Hotel PalletTown 301 3
+Hotel ViridianCity 100 1
+Hotel ViridianCity 101 1
+Hotel ViridianCity 102 1
+Hotel CinnibarIsland 200 2
+Hotel CinnibarIsland 201 2
+Hotel CinnibarIsland 300 3
+Hotel CinnibarIsland 301 3
+Book Ash Mar 12 2 single 1 double 1 triple 1 
+Book Misty Mar 11 3 single 1 double 1
+Book Brock Mar 13 2 triple 2
+Print CinnibarIsland
+Print PalletTown
+Cancel Ash PalletTown 100 Mar 13 1
+Print PalletTown
+Book Tracy Mar 13 1 triple 2
+Change Brock CinnibarIsland 300 Mar 13 1 Mar 13 1 single
+Change Brock CinnibarIsland 301 Mar 13 1 Mar 13 1 single
+Book Tracy Mar 13 1 triple 2
+Print ViridianCity
+Print CinnibarIsland
+Cancel Ash PalletTown 200 Mar 13 2
+Change Ash PalletTown 300 Mar 11 2 Mar 11 1 single

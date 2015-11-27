@@ -1,0 +1,11 @@
+Hotel BoundaryTest 100 1
+Hotel BoundaryTest 200 2
+Hotel BoundaryTest 300 3
+Book Jom Jan 31 3 single 1
+Book Orrin Feb 2 1 single 1
+Cancel Jom BoundaryTest 100 Feb 2 1 
+Book Orrin Feb 2 1 single 1
+Book Jom Mar 29 5 double 1
+Print BoundaryTest
+Change Jom BoundaryTest 200 Mar 31 2 Mar 31 2 triple
+Print BoundaryTest

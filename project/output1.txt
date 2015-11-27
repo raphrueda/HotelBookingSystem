@@ -1,0 +1,27 @@
+PalletTown 100 200 300
+PalletTown 101 201
+CinnibarIsland 300 301
+CinnibarIsland 300 Mar 13 2 Brock
+CinnibarIsland 301 Mar 13 2 Brock
+PalletTown 100 Mar 12 2 Ash
+PalletTown 101 Mar 11 3 Misty
+PalletTown 200 Mar 12 2 Ash
+PalletTown 201 Mar 11 3 Misty
+PalletTown 300 Mar 12 2 Ash
+Reservation cancelled
+PalletTown 100 Mar 12 1 Ash
+PalletTown 101 Mar 11 3 Misty
+PalletTown 200 Mar 12 2 Ash
+PalletTown 201 Mar 11 3 Misty
+PalletTown 300 Mar 12 2 Ash
+Booking rejected
+PalletTown 100
+ViridianCity 100
+CinnibarIsland 300 301
+ViridianCity 100 Mar 13 1 Brock
+CinnibarIsland 300 Mar 13 1 Tracy
+CinnibarIsland 300 Mar 14 1 Brock
+CinnibarIsland 301 Mar 13 1 Tracy
+CinnibarIsland 301 Mar 14 1 Brock
+Cancellation rejected
+Change rejected

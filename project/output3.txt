@@ -1,0 +1,14 @@
+BoundaryTest 100
+Booking rejected
+Reservation cancelled
+BoundaryTest 100
+BoundaryTest 200
+BoundaryTest 100 Jan 31 2 Jom
+BoundaryTest 100 Feb 2 1 Orrin
+BoundaryTest 200 Mar 29 5 Jom
+BoundaryTest 300
+BoundaryTest 100 Jan 31 2 Jom
+BoundaryTest 100 Feb 2 1 Orrin
+BoundaryTest 200 Mar 29 2 Jom
+BoundaryTest 200 Apr 2 1 Jom
+BoundaryTest 300 Mar 31 2 Jom

@@ -1,0 +1,23 @@
+Booking rejected
+Booking rejected
+Booking rejected
+Booking rejected
+H1 100 101
+Booking rejected
+Booking rejected
+H1 100 101
+H3 300
+H3 300
+H1 100
+H2 200
+H1 100 Dec 10 5 John
+H1 100 Dec 15 1 Chris
+H1 100 Dec 16 4 John
+H1 100 Dec 20 5 Ana
+H1 100 Dec 26 4 Ana
+H1 101 Dec 10 7 John
+H1 101 Dec 18 2 John
+H1 101 Dec 20 10 Ana
+H2 200 Jan 1 1 John
+H3 300 Nov 1 1 Ana
+H3 300 Nov 30 1 John
